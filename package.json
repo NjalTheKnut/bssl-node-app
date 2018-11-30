@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/NjalTheKnut/bssl-node-app#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "*",
+    "body-parser": "*"
   }
 }
